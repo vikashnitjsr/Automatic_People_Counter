@@ -1,0 +1,21 @@
+##### if separate enviornment is there
+
+pip install cmake
+
+pip install dlib
+
+##### if separate enviornment is there then use
+
+sudo pip install cmake
+
+sudo pip install dlib
+
+
+
+# to run this model
+
+python people_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt \
+	--model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/test3.mp4 \
+	--output output/output_03.mp4
+
+
