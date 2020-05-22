@@ -1,4 +1,4 @@
-# Automatic_Pedestrian_Counter_System
+# Automatic_Person_Counter_System
 ### Aim: To count the number of people Entering and Leaving from a defined region.
 ### Requirements:
 - Open cv
